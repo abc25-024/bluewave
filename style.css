@@ -73,3 +73,22 @@
     .btn:hover {
         background-color: #145a86;
     }
+
+
+/*---contact page---*/
+     body
+    {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f8fc;
+        }  
+          header
+         {
+        background-color: #0a3d62;
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+  h1{
+      color:blue;
+  }
